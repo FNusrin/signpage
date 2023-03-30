@@ -1,9 +1,10 @@
 # Signin Page
 
-version 18.2.0
+Version 18.2.0
 
 credits: https://dribbble.com/session/new
 
-![sign in page](screebshot\1.png)
+![sign in page](screenshot\dribblelogin.png)
 
-## feture
+## Features:
+A demo of Dribble login page. 
